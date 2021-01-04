@@ -13,5 +13,5 @@ The multiple algorithms used:
  * A* Search
 
  - [x] Create a Web Scraper
- - []  Implement a graph data structure
- - []  Work on front end 
+ - Implement a graph data structure
+ - Work on front end 
