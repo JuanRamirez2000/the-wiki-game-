@@ -1,0 +1,13 @@
+https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/tutorial/
+https://codereview.stackexchange.com/questions/135156/bfs-implementation-in-python-3
+https://www.python-course.eu/graphs_python.php
+
+!-- Wikipedia Articles --!
+
+Short ones:
+https://en.wikipedia.org/wiki/Clavus_aenigmaticus
+
+Medium ones:
+https://en.wikipedia.org/wiki/Osterburken
+
+Long ones:
