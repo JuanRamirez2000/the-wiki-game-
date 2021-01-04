@@ -12,6 +12,6 @@ The multiple algorithms used:
  * BFS (Breadth-First Search)
  * A* Search
 
- [x] Create a Web Scraper
- []  Implement a graph data structure
- []  Work on front end 
+ - [x] Create a Web Scraper
+ - []  Implement a graph data structure
+ - []  Work on front end 
